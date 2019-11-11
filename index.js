@@ -16,7 +16,11 @@ function nameToAttributes(array) {
 
 
 
-function attributesToPhrase()
+function attributesToPhrase(array) {
+  return array.map(function(driver) {
+    
+  })
+}
 
 
 
