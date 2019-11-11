@@ -16,7 +16,7 @@ function nameToAttributes(array) {
 
 
 
-function 
+function attributesToPhrase()
 
 
 
