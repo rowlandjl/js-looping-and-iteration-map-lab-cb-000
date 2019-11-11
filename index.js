@@ -3,3 +3,8 @@ function lowerCaseDrivers(array) {
     return driver.toLowerCase();
   });
 }
+
+
+function nameToAttributes() {
+  
+}
