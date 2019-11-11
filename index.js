@@ -6,5 +6,7 @@ function lowerCaseDrivers(array) {
 
 
 function nameToAttributes(array) {
-  array.mapd()
+  array.mapd(function(driver) {
+    
+  })
 }
