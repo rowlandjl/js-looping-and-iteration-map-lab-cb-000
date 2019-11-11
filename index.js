@@ -1,3 +1,5 @@
 function lowerCaseDrivers(array) {
-  array.map(function(driver) )
+  array.map(function(driver) {
+    return driver.toLowerCase();
+  });
 }
